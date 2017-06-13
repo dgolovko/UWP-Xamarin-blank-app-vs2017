@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Xamarin_blank_app_vs2017.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Xamarin_blank_app_vs2017.UWP"
+    RequestedTheme="Light">
+
+</Application>
